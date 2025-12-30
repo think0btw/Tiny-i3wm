@@ -1,13 +1,13 @@
 #!/usr/bin/env bash
 #Power Menu
 
-shutdown='Shutdown'
-reboot='Reboot'
-lock='Lock'
-suspend='Suspend'
-logout='Logout'
-yes='Yes'
-no='No'
+shutdown='⏻ Shutdown'
+reboot='🔄 Reboot'
+lock='🔒 Lock'
+suspend='💤 Suspend'
+logout='🚪 Logout'
+yes='✅ Yes'
+no='❌ No'
 
 # uptime
 uptime=$(uptime -p | sed -e 's/up //g')
