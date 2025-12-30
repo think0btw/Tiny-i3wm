@@ -177,9 +177,9 @@ mode "resize" {
 
 
 #polybar
-exec_always --no-startup-id polybar main
+exec_always --no-startup-id ~/.config/polybar/launch.sh
 
-exec_always --no-startup-id feh --bg-scale /home/chef/.config/i3/image/flower.jpg
+exec_always --no-startup-id feh --bg-scale /home/chef/.config/i3/image/brut2.jpg
 
 #picom
 exec_always --no-startup-id picom --config ~/.config/picom/picom.conf
