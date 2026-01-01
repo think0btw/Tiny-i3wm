@@ -38,3 +38,7 @@ What's more, this configuration is very lightweight and minimalistic, making it 
 | `Mod + F` | Toggle fullscreen |
 | `Mod + G` | Toggle floating |
 | `Mod + Space` | Toggle focus mode |
+
+> ⚠️ Work in progress  
+> This dotfiles repository is still under active development.
+
