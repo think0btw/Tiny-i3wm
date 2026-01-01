@@ -1,7 +1,7 @@
 <h1 align="center">Tiny-i3wm 🐜</h1> 
 
-
 <center>
+
 ![WM](https://img.shields.io/badge/WM-i3-blue)
 ![OS](https://img.shields.io/badge/OS-Linux-black?logo=linux)
 ![Theme](https://img.shields.io/badge/Theme-Minimal-darkgreen)
