@@ -1,7 +1,10 @@
 <h1 align="center">Tiny-i3wm 🐜</h1> 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/think0btw/Tiny-i3wm)
+
 <img width="1440" height="900" alt="scren" src="https://github.com/user-attachments/assets/658b2847-a465-4033-963d-c5cb3b197c00" />
+![GitHub repo size](https://img.shields.io/github/repo-size/think0btw/Tiny-i3wm)
+![GitHub last commit](https://img.shields.io/github/last-commit/think0btw/Tiny-i3wm)
+![GitHub license](https://img.shields.io/github/license/think0btw/Tiny-i3wm)
 
 <center>
 
