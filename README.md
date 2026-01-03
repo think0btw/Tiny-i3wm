@@ -40,6 +40,12 @@ What's more, this configuration is very lightweight and minimalistic, making it 
 - Cava (audio visualizer)
 - Fastfetch (system info)
 - LunarVim (Neovim config)
+## 📦 Dependencies
+`i3` · `polybar` · `rofi` · `picom` · `kitty` · `btop` · `htop` · `cava` · `fastfetch` · `feh` · `xrandr` · `brightnessctl` · `playerctl` · `pulseaudio` · `git` · `neovim`
+
+---
+## 🔤 Fonts (recommended)
+`JetBrainsMono Nerd Font` · `FiraCode Nerd Font` · `Font Awesome`
 
 ## 🚀 Install dotfiles
 
