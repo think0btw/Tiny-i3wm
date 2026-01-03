@@ -53,7 +53,12 @@ sudo apt update && sudo apt install i3 polybar rofi picom kitty btop htop cava f
 ```
 sudo pacman -S --needed i3-wm polybar rofi picom kitty btop htop cava fastfetch feh xorg-xrandr brightnessctl playerctl pulseaudio git neovim
 ```
-
+## 🔧 Shell (zsh)
+> (Recommended)
+```bash
+sudo apt install zsh
+chsh -s $(which zsh)
+```
 ## 🚀 Install dotfiles
 
 ```bash
