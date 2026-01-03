@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/79f3e141-5835-4b8b-b40e-0c43e49995da" width="30%">
   <img src="https://github.com/user-attachments/assets/da478056-5c17-4035-9f67-f40ae982fbd0" width="30%">
-  <img src="https://github.com/user-attachments/assets/fdf4e728-1264-4bc1-a82e-56b9621f5a11" width="30%">
   <img src="https://github.com/user-attachments/assets/d89bb44a-b5b3-4fc0-a33c-07eea90045ce" width="30%">
 
 </p>
