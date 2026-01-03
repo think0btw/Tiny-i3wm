@@ -1,12 +1,15 @@
 <h1 align="center">Tiny-i3wm 🐧</h1> 
-<img width="1440" height="900" alt="nvim" src="https://github.com/user-attachments/assets/79f3e141-5835-4b8b-b40e-0c43e49995da" />
 
-<img width="1440" height="900" alt="i3" src="https://github.com/user-attachments/assets/5d578e76-c015-4544-8033-1ba6b6697b77" />
-<img width="1440" height="900" alt="nvim2" src="https://github.com/user-attachments/assets/da478056-5c17-4035-9f67-f40ae982fbd0" />
+## Preview
 
-<img width="1440" height="900" alt="scren" src="https://github.com/user-attachmen<img width="1440" height="900" alt="rofi" src="https://github.com/user-attachments/assets/fdf4e728-1264-4bc1-a82e-56b9621f5a11" />
-ts/assets/658b2847-a465-4033-963d-c5cb3b197c00" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5d578e76-c015-4544-8033-1ba6b6697b77" width="80%">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/79f3e141-5835-4b8b-b40e-0c43e49995da" width="30%">
+  <img src="https://github.com/user-attachments/assets/da478056-5c17-4035-9f67-f40ae982fbd0" width="30%">
+  <img src="https://github.com/user-attachments/assets/fdf4e728-1264-4bc1-a82e-56b9621f5a11" width="30%">
+</p>
 ![GitHub repo size](https://img.shields.io/github/repo-size/think0btw/Tiny-i3wm)
 ![GitHub last commit](https://img.shields.io/github/last-commit/think0btw/Tiny-i3wm)
 
