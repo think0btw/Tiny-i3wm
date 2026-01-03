@@ -94,17 +94,6 @@ Before installing these dotfiles, **MAKE A BACKUP** of your existing configurati
 I am NOT responsible for any data loss or broken config.
 Use at your own risk.
 ## 🚀 Install dotfiles
-## Installation (Recommended)
-### Requirements
-- GNU Stow
- ```
-# Arch
-sudo pacman -S stow
-```
-```
-# Debian
-sudo apt install stow
-```
 
 ```bash
 git clone https://github.com/think0btw/i3_Dotfiles.git
