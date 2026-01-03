@@ -29,6 +29,18 @@
 This i3wm configuration is designed to run even on the least powerful devices.<br>
 What's more, this configuration is very lightweight and minimalistic, making it perfect for users who want a fast and efficient window manager without any unnecessary bloat.
 
+## ✨ What is included
+
+- i3wm (window manager)
+- Polybar (status bar)
+- Kitty (terminal)
+- Rofi (app launcher)
+- Picom (compositor)
+- btop / htop (system monitor)
+- Cava (audio visualizer)
+- Fastfetch (system info)
+- LunarVim (Neovim config)
+- 
 ## ⌨️ Keybindings
 | Combo | Action |
 |------|--------|
