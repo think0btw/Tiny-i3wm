@@ -42,11 +42,13 @@ What's more, this configuration is very lightweight and minimalistic, making it 
 - LunarVim (Neovim config)
 ## 📦 Dependencies
 `i3` · `polybar` · `rofi` · `picom` · `kitty` · `btop` · `htop` · `cava` · `fastfetch` · `feh` · `xrandr` · `brightnessctl` · `playerctl` · `pulseaudio` · `git` · `neovim`
-
----
 ## 🔤 Fonts (recommended)
 `JetBrainsMono Nerd Font` · `FiraCode Nerd Font` · `Font Awesome`
 
+Debian
+```
+sudo apt update && sudo apt install i3 polybar rofi picom kitty btop htop cava fastfetch feh xrandr brightnessctl playerctl pulseaudio git neovim
+```
 ## 🚀 Install dotfiles
 
 ```bash
@@ -69,6 +71,8 @@ chmod +x install.sh
 | `Mod + G` | Toggle floating |
 | `Mod + Space` | Toggle focus mode |
 
+> ⚠️ Notes
+> X11 only · Fonts required for icons · Hardware-specific settings may need edits
 > ⚠️ Work in progress  
-> This dotfiles repository is still under active development.
+> This dotfiles repository is& still under active development.
 
